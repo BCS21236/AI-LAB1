@@ -1,4 +1,4 @@
 #String
-string  = "zeyam ali matharu"
+string  = "Muhammad BCS21236"
 for i in string:
   print(i)
