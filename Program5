@@ -1,0 +1,4 @@
+#String
+string  = "zeyam ali matharu"
+for i in string:
+  print(i)
