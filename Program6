@@ -1,0 +1,7 @@
+#Break statement
+list_name = "MuhammadBCS21236"
+for listLetter in list_name:
+  if listLetter=='a' or listLetter=='n':
+      break
+
+print(f'Current letter is :{listLetter}')
