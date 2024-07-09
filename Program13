@@ -12,3 +12,11 @@ class Pharmacist:
 
   def passing_year(self, year):
     self.passing_year = year
+pharmacist = Pharmacist()
+pharmacist.name = "Muhammad"
+pharmacist.degree = "B_category"
+pharmacist.passing_year = 2024
+pharmacist.age = 23
+print(pharmacist.name)
+print(pharmacist.age)
+pharmacist.degree_type("c_category")
