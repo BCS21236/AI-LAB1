@@ -1,0 +1,14 @@
+class Pharmacist:
+  def _init_(self,age,name,degree,passing_year):
+    self.name="Muhammad"
+    self.age=23
+    self.degree = "None"
+    self.passing_year = 0
+
+  def degree_type(self,degree):
+    self.degree=degree
+    print("degree type is "+ self.degree)
+
+
+  def passing_year(self, year):
+    self.passing_year = year
