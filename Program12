@@ -1,0 +1,14 @@
+#classes
+class Person:
+  def _init_(self, name, age):
+    self.name=name
+    self.age=age
+  def myFunction(self):
+    print("my name is "+ self.name)
+
+
+
+p1 = Person()
+p1.name = "Muhammad"
+p1.age = 23
+p1.myFunction()
