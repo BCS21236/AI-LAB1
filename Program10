@@ -1,0 +1,6 @@
+#function use return value
+def my_function(number):
+ return 5*number
+
+print(my_function(6))
+my_function(7)
