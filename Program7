@@ -1,0 +1,7 @@
+#Continue Statement
+list_name = "Muhammadbcs2136"
+for listLetter in list_name:
+  if listLetter=='i' or listLetter=='e':
+    continue
+
+print(f'current letter is : {listLetter}')
