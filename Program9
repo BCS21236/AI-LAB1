@@ -1,0 +1,5 @@
+def my_function(country):
+  for i in country:
+    print(i)
+country = ["Pakistan","India","Afghanistan","UAE","USA"]
+my_function(country)
