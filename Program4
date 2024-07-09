@@ -1,0 +1,4 @@
+#Tuple
+tuple = ("Muhammad","Khubaib","Abdullah")
+for i in tuple:
+  print(i)
