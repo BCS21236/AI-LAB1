@@ -1,0 +1,5 @@
+#Functions
+def my_function(a):
+  print(a)
+  print(type(a))
+my_function(1.000)
